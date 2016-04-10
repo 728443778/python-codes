@@ -4,6 +4,8 @@ author:侯成华
 email:728443778@qq.com
 时间:2016年4月10日16:55:41
 描述:主要用于测试，该python程序 有三个线程，一个主线程，一个读线程，还有一个写线程
+另外，我学习python也是在1年前还没到成都的时候，在工作中几乎没用过python，我是一名php开发者，
+如果大家对代码有什么建议的地方，请指正
 """
 import socket
 from sys import argv
